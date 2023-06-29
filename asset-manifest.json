@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Ojasvita1305/robofriends.git/static/css/main.89d88c47.css",
+    "main.js": "/Ojasvita1305/robofriends.git/static/js/main.3da10018.js",
+    "static/js/787.32032a02.chunk.js": "/Ojasvita1305/robofriends.git/static/js/787.32032a02.chunk.js",
+    "static/media/SEGA.woff": "/Ojasvita1305/robofriends.git/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/Ojasvita1305/robofriends.git/index.html",
+    "main.89d88c47.css.map": "/Ojasvita1305/robofriends.git/static/css/main.89d88c47.css.map",
+    "main.3da10018.js.map": "/Ojasvita1305/robofriends.git/static/js/main.3da10018.js.map",
+    "787.32032a02.chunk.js.map": "/Ojasvita1305/robofriends.git/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89d88c47.css",
+    "static/js/main.3da10018.js"
+  ]
+}
